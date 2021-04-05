@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\carla\desktop\aplicacion\app d\pila.c
+	"pila.h"
+
+1490112217 c:\users\carla\desktop\aplicacion\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1561999550 source:c:\users\carla\desktop\aplicacion\app d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\nahue\downloads\app d\pila.c
+	"pila.h"
+
+1490112217 c:\users\nahue\downloads\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1562124974 source:c:\users\nahue\downloads\app d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\nahue\desktop\calcdiab\app d\pila.c
+	"pila.h"
+
+1490112217 c:\users\nahue\desktop\calcdiab\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1562156990 source:c:\users\nahue\desktop\calcdiab\app d\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1490112217 source:c:\users\nahue\documents\facultad\calcdiab\app d\pila.c
+	"pila.h"
+
+1490112217 c:\users\nahue\documents\facultad\calcdiab\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1574824298 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\main.c
+	"CalcDiab.h"
+	"Usuarios.h"
+	"Alimentos.h"
+
+1490112217 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\pila.c
+	"pila.h"
+
+1574855749 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\calcdiab.c
+	"CalcDiab.h"
+
+1574824003 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\calcdiab.h
+	"pila.h"
+	<time.h>
+	"Usuarios.h"
+	"Alimentos.h"
+
+1574810026 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574855051 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\usuarios.c
+	"Usuarios.h"
+
+1574810026 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\alimentos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574776423 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\app d\alimentos.c
+	"Alimentos.h"
+
+1574855749 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\calcdiab.c
+	"CalcDiab.h"
+
+1574824003 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\calcdiab.h
+	"pila.h"
+	<time.h>
+	"Usuarios.h"
+	"Alimentos.h"
+
+1490112217 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1574810026 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574810026 c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\alimentos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1490112217 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\pila.c
+	"pila.h"
+
+1574776423 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\alimentos.c
+	"Alimentos.h"
+
+1574856293 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\main.c
+	"CalcDiab.h"
+
+1574855051 source:c:\users\nahue\documents\facultad\1° cuatrimestre\calcdiab\luciano soto y nahuel flores - calcdiab\app d\usuarios.c
+	"Usuarios.h"
+
